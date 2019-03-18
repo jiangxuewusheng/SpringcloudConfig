@@ -1,0 +1,8 @@
+server:
+  port: 8888
+foo: foo version 2
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
