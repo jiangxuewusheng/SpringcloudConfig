@@ -1,6 +1,6 @@
 server:
   port: 8888
-foo: foo version 2
+foo: foo version 33333
 
 eureka:
   client:
